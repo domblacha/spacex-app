@@ -1,0 +1,8 @@
+.flight-images {
+  display: flex;
+  flex-direction: column;
+}
+
+.flight-images__image {
+  margin-top: 10px;
+}
